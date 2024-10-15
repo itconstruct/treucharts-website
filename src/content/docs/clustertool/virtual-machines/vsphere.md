@@ -67,7 +67,7 @@ Retain the `URL` for use in the next step.
 
 7. Select the latest available compatibility level of ESXi depending on version you are running.
 
-![compatibility](./img/vm-compatibility.png)
+![compatibility](./img/vs-vm-compatibility.png)
 
 8. Select Guest OS Family `Linux` and then Guest OS Version `Other 4.x or later Linux (x64)`.
 
