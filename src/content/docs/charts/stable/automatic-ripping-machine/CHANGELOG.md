@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.4.11 • [Train: stable]
+
+- chore(container): update image automaticrippingmachine/automatic-ripping-machine to da9c409 by renovate (#27670) • [`dd1b35a`](https://github.com/truecharts/charts/commit/dd1b35ac45c9c5e47af8e7c6338a66a8c308bb0e) • [@TrueCharts Bot] (2024-10-15)
+
 ## 5.4.10 • [Train: stable]
 
 - chore(container): update image automaticrippingmachine/automatic-ripping-machine to 2917cdd by renovate (#27661) • [`aff5dba`](https://github.com/truecharts/charts/commit/aff5dbaabf5f0d72263a363d75d75c3698bc4657) • [@TrueCharts Bot] (2024-10-14)
